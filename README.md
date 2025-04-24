@@ -1,6 +1,6 @@
 ## ZiniPay SDK for Node.js
 A lightweight Node.js SDK for integrating ZiniPay payment gateway APIs. Easily create and verify payments with minimal setup.
-```markdown
+
 ## 📦 Installation
 
 ```bash
@@ -135,4 +135,3 @@ MIT License
 For suggestions, bug reports, or contributions, feel free to open an issue.
 
 ---
-# zinipay-sdk-nodejs

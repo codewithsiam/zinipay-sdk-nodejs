@@ -1,0 +1,21 @@
+{
+  "name": "zinipay",
+  "version": "1.0.0",
+  "description": "ZiniPay SDK for Node.js to integrate ZiniPay payment gateway APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "payment",
+    "gateway",
+    "SDK",
+    "ZiniPay"
+  ],
+  "author": "Abu Sayed Al Siam",
+  "license": "MIT",
+  "dependencies": {},
+  "publishConfig": {
+    "access": "public"
+  }
+}
